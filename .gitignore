@@ -1,0 +1,41 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment directory
+env/
+
+# Ignore the static files directory (if you're using collectstatic)
+staticfiles/
+
+# Ignore the media files directory
+media/
+
+# Ignore database files
+*.sqlite3
+
+# Ignore the local settings file
+settings_local.py
+
+# Ignore logs
+logs/
+
+# Ignore the IDE configuration files
+.vscode/
+.idea/
+
+# Ignore the dependency directory
+# Adjust the name of your dependency manager's directory if necessary
+pipenv/
+pipenv.lock
+
+# Ignore any sensitive or private information
+# Add any other files or directories containing sensitive information
+secrets.ini
+
+# Ignore the development server's process ID file
+*.pid
+
+# Ignore any other generated or temporary files
+*.log
+*.swp
+.DS_Store
