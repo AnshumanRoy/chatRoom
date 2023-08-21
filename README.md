@@ -1,14 +1,14 @@
 # ChatRooms 💬
 
-Welcome to the ChatRooms application! This project allows users to join chat rooms and communicate with each other in real-time using WebSocket technology.
+Welcome to the **ChatRooms** application! This project allows users to join chat rooms and communicate with each other in real-time using **WebSocket** technology.
 
 ![image](https://github.com/AnshumanRoy/chatRoom/assets/56593553/e91787ca-b293-4e22-982f-0782217dadb5)
 
 
 ## Features
 
-- User authentication and registration
-- Real-time chat functionality using WebSockets
+- User **authentication** and **registration**
+- Real-time chat functionality using **WebSockets**
 - Join/create chat rooms
 - Send and receive messages within chat rooms
 - User-friendly interface
@@ -47,7 +47,7 @@ Welcome to the ChatRooms application! This project allows users to join chat roo
    pip install -r requirements.txt
 
 4. Configure the Application:
-   Create a new config.ini file in the folder containing **manaage.py**. Edit it appropriately to set the necessary configuration values, such as database settings, email settings, and channel layers configuration.
+   Create a new config.ini file in the folder containing **manage.py**. Edit it appropriately to set the necessary configuration values, such as database settings, email settings, and channel layers configuration.
 
    ```ini
    [django]
