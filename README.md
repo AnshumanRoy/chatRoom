@@ -93,7 +93,7 @@ The application can be hosted locally, over the system IP address or on a domain
    ![image](https://github.com/AnshumanRoy/chatRoom/assets/56593553/546c4fda-b8d8-4e00-8b9d-f780f8938da4)
 
 
-3. Choose a chat room or create your own by entering the an existing room name or choosing a new name.
+3. Choose a chat room or create your own by entering an existing room name or choosing a new name.
 
    ![image](https://github.com/AnshumanRoy/chatRoom/assets/56593553/5bf08921-75ef-4067-ab4f-6eccb273cfdb)
 
