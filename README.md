@@ -47,7 +47,7 @@ Welcome to the **ChatRooms** application! This project allows users to join chat
    pip install -r requirements.txt
 
 4. Configure the Application:
-   Create a new config.ini file in the folder containing **manage.py**. Edit it appropriately to set the necessary configuration values, such as database settings, email settings, and channel layers configuration.
+   Create a new config.ini file in the folder containing **manage.py**. Edit it appropriately to set the necessary configuration values, such as database settings and channel layers configuration.
 
    ```ini
    [django]
